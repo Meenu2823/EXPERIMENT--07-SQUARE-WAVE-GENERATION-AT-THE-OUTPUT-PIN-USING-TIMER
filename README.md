@@ -1,7 +1,7 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 ### Name : Meenu S
 ### Roll no : 212223230124
-### Date of experiment : .09.24
+### Date of experiment : 30.09.24
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope.  
 
